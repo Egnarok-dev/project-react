@@ -1,0 +1,45 @@
+.header_container {
+    width: 84vw;
+    height: 5vw;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8vw;
+    position: fixed;
+    top: 0;
+}
+
+.header_container li {
+    list-style: none;
+    color: #3C3C3C;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav_header {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* .pizza {
+    color: #3C3C3C;
+}
+
+.time {
+    color: #FCC647;
+} */
+
